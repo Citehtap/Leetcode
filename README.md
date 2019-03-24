@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2019-03-24 14:11:01, I have solved **10** / **821** problems while **0** are still locked.
+Until 2019-03-24 14:13:22, I have solved **10** / **821** problems while **0** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
@@ -90,9 +90,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|
 |077|[Combinations](https://leetcode-cn.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|To Do|
-|078|[Subsets](https://leetcode-cn.com/problems/subsets/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/078.%20Subsets/Subsets.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/078.%20Subsets/Solution.java)|
+|078|[Subsets](https://leetcode-cn.com/problems/subsets/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/leetcode-algorithms/078.%20Subsets/Subsets.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/leetcode-algorithms/078.%20Subsets/Solution.java)|
 |079|[Word Search](https://leetcode-cn.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|To Do|
-|080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/Citehtap/Leetcode/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/Soultion.cpp)|To Do|
+|080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/Citehtap/Leetcode/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/Soultion.cpp)|To Do|
 |081|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -142,7 +142,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |127|[Word Ladder](https://leetcode-cn.com/problems/word-ladder/description/) |Medium|To Do|To Do|To Do|To Do|
 |128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
 |129|[Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
-|130|[Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/130.%20Surrounded%20Regions/Surrounded_Regions.py)|To Do|To Do|
+|130|[Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/leetcode-algorithms/130.%20Surrounded%20Regions/Surrounded_Regions.py)|To Do|To Do|
 |131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/description/) |Medium|To Do|To Do|To Do|To Do|
 |132|[Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -425,8 +425,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |529|[Minesweeper](https://leetcode-cn.com/problems/minesweeper/description/) |Medium|To Do|To Do|To Do|To Do|
 |530|[Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/) |Easy|To Do|To Do|To Do|To Do|
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/) |Easy|To Do|To Do|To Do|To Do|
-|535|[Encode and Decode TinyURL](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/535.%20Encode%20and%20Decode%20TinyURL/Encode_and_Decode_TinyURL.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/535.%20Encode%20and%20Decode%20TinyURL/Solution.java)|
-|537|[Complex Number Multiplication](https://leetcode-cn.com/problems/complex-number-multiplication/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/537.%20Complex%20Number%20Multiplication/Complex_Number_Multiplication.py)|To Do|To Do|
+|535|[Encode and Decode TinyURL](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/leetcode-algorithms/535.%20Encode%20and%20Decode%20TinyURL/Encode_and_Decode_TinyURL.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/leetcode-algorithms/535.%20Encode%20and%20Decode%20TinyURL/Solution.java)|
+|537|[Complex Number Multiplication](https://leetcode-cn.com/problems/complex-number-multiplication/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/leetcode-algorithms/537.%20Complex%20Number%20Multiplication/Complex_Number_Multiplication.py)|To Do|To Do|
 |538|[Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/description/) |Medium|To Do|To Do|To Do|To Do|
 |540|[Single Element in a Sorted Array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -568,7 +568,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |429|[N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/) |Easy|To Do|To Do|To Do|To Do|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) |Easy|To Do|To Do|To Do|To Do|
-|763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/763.%20Partition%20Labels/Partition_Labels.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/763.%20Partition%20Labels/Solution.java)|
+|763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/leetcode-algorithms/763.%20Partition%20Labels/Partition_Labels.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/leetcode-algorithms/763.%20Partition%20Labels/Solution.java)|
 |764|[Largest Plus Sign](https://leetcode-cn.com/problems/largest-plus-sign/description/) |Medium|To Do|To Do|To Do|To Do|
 |765|[Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/description/) |Hard|To Do|To Do|To Do|To Do|
 |427|[Construct Quad Tree](https://leetcode-cn.com/problems/construct-quad-tree/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -602,7 +602,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |788|[Rotated Digits](https://leetcode-cn.com/problems/rotated-digits/description/) |Easy|To Do|To Do|To Do|To Do|
 |789|[Escape The Ghosts](https://leetcode-cn.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|To Do|
 |790|[Domino and Tromino Tiling](https://leetcode-cn.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|To Do|
-|791|[Custom Sort String](https://leetcode-cn.com/problems/custom-sort-string/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/791.%20Custom%20Sort%20String/Custom_Sort_String.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/791.%20Custom%20Sort%20String/Solusion.java)|
+|791|[Custom Sort String](https://leetcode-cn.com/problems/custom-sort-string/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/leetcode-algorithms/791.%20Custom%20Sort%20String/Custom_Sort_String.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/leetcode-algorithms/791.%20Custom%20Sort%20String/Solusion.java)|
 |792|[Number of Matching Subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|To Do|To Do|To Do|To Do|
 |794|[Valid Tic-Tac-Toe State](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -660,7 +660,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |842|[Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |843|[Guess the Word](https://leetcode-cn.com/problems/guess-the-word/description/) |Hard|To Do|To Do|To Do|To Do|
 |844|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/description/) |Easy|To Do|To Do|To Do|To Do|
-|845|[Longest Mountain in Array](https://leetcode-cn.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|[C++](https://github.com/Citehtap/Leetcode/845.%20Longest%20Mountain%20in%20Array/Solution.cpp)|To Do|
+|845|[Longest Mountain in Array](https://leetcode-cn.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|[C++](https://github.com/Citehtap/Leetcode/leetcode-algorithms/845.%20Longest%20Mountain%20in%20Array/Solution.cpp)|To Do|
 |846|[Hand of Straights](https://leetcode-cn.com/problems/hand-of-straights/description/) |Medium|To Do|To Do|To Do|To Do|
 |847|[Shortest Path Visiting All Nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/description/) |Hard|To Do|To Do|To Do|To Do|
 |848|[Shifting Letters](https://leetcode-cn.com/problems/shifting-letters/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -686,7 +686,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/description/) |Easy|To Do|To Do|To Do|To Do|
 |868|[Binary Gap](https://leetcode-cn.com/problems/binary-gap/description/) |Easy|To Do|To Do|To Do|To Do|
 |869|[Reordered Power of 2](https://leetcode-cn.com/problems/reordered-power-of-2/description/) |Medium|To Do|To Do|To Do|To Do|
-|870|[Advantage Shuffle](https://leetcode-cn.com/problems/advantage-shuffle/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/870.%20Advantage%20Shuffle/Advantage_Shuffle.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/870.%20Advantage%20Shuffle/Solution.java)|
+|870|[Advantage Shuffle](https://leetcode-cn.com/problems/advantage-shuffle/description/) |Medium|To Do|[Python](https://github.com/Citehtap/Leetcode/leetcode-algorithms/870.%20Advantage%20Shuffle/Advantage_Shuffle.py)|To Do|[Java](https://github.com/Citehtap/Leetcode/leetcode-algorithms/870.%20Advantage%20Shuffle/Solution.java)|
 |871|[Minimum Number of Refueling Stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/description/) |Hard|To Do|To Do|To Do|To Do|
 |470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/description/) |Medium|To Do|To Do|To Do|To Do|
 |872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -711,7 +711,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/description/) |Hard|To Do|To Do|To Do|To Do|
 |888|[Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/description/) |Easy|To Do|To Do|To Do|To Do|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
-|890|[Find and Replace Pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/Citehtap/Leetcode/890.%20Find%20and%20Replace%20Pattern/Solution.java)|
+|890|[Find and Replace Pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/Citehtap/Leetcode/leetcode-algorithms/890.%20Find%20and%20Replace%20Pattern/Solution.java)|
 |891|[Sum of Subsequence Widths](https://leetcode-cn.com/problems/sum-of-subsequence-widths/description/) |Hard|To Do|To Do|To Do|To Do|
 |892|[Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/description/) |Easy|To Do|To Do|To Do|To Do|
 |893|[Groups of Special-Equivalent Strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/description/) |Easy|To Do|To Do|To Do|To Do|
